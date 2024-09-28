@@ -48,7 +48,7 @@ To get a local copy up and running, follow these simple steps.
 
 2.**Navigate to the project directory:**
 
-     cd password
+     cd business
 3.**Install dependencies using npm or yarn:**
 
     npm install
